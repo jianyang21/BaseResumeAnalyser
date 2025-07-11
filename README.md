@@ -1,10 +1,10 @@
-# 📄 ResumeAnalyserStreamlit
+#  ResumeAnalyserStreamlit
 
 **ResumeAnalyserStreamlit** is a Streamlit-based web app that allows users to upload resume PDFs, automatically extract key information such as name, email, phone number, skills, and education using **PyPDF**, and store the data in **MongoDB** for easy access and management. It helps automate and streamline the resume screening process for recruiters and HR teams.
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Upload resume PDFs through a simple UI
 - Extracts:
@@ -21,12 +21,3 @@
   - `PyMongo` for database integration
 
 ---
-
-## 🚀 Getting Started
-
-### 📥 Clone the Repository
-
-To get started, clone the repository using the following command:
-
-```bash
-git clone https://github.com/jianyang21/BaseResumeAnalyser.git
